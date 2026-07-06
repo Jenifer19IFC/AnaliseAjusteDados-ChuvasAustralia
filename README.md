@@ -92,4 +92,3 @@ python -m notebook
 Backend Software Developer • Artificial Intelligence • Data Analytics
 
 - 💼 LinkedIn: https://www.linkedin.com/in/jenifer-goedert
-- 🐙 GitHub: https://github.com/Jenifer19IFC
